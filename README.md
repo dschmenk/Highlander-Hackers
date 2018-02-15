@@ -1,2 +1,3 @@
-# Highland-Hackers
-## Development repository for the Incline High School Computer Club
+# Development repository for the Incline High School Computer Club
+## The Highland Hackers
+-----------------------
