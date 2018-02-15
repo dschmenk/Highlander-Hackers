@@ -1,4 +1,4 @@
-# The Highland Hackers
+# The Highlander Hackers
 ## Development Repository for the Incline High School Computer Club
 -------------------------------------------------------------------
 
