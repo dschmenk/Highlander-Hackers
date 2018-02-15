@@ -1,6 +1,6 @@
 # The Highland Hackers
 ## Development Repository for the Incline High School Computer Club
--------------------------------------------------------------------
+===================================================================
 
 ### Useful links to get you started:
 NVIDIA Links
@@ -25,5 +25,7 @@ Deep Learning Links
 
 [CAFFE](http://caffe.berkeleyvision.org/)
 
+Robotics Links
+--------------
 [Robot Operating System](http://www.ros.org/)
 
