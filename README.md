@@ -29,3 +29,4 @@ Robotics Links
 --------------
 [Robot Operating System](http://www.ros.org/)
 
+[Open Kinect](https://openkinect.org/wiki/Getting_Started)
