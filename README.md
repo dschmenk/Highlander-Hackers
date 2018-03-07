@@ -30,4 +30,4 @@ Robotics Links
 
 [Open Kinect](https://openkinect.org/wiki/Getting_Started)
 
-[How Servo Motors Work](https://www.jameco.com/Jameco/workshop/howitworks/how-servo-motors-work.html?CID=NEWS0318&trk_msg=TPDLV993AQJ4FEV7BL0PG8LVR4&trk_contact=8TDDQ0CCQ7LMMQ8Q6V7T1MNDR8&trk_module=new&trk_sid=SAHIFMM64GL5HGVJ2E2M68LTD0&espm=A55F5BEE562347A6BBE75D419822BFD9&espc=01DD5A47D18C6BEB691A37CFD0DAEDDA&utm_source=Listrak&utm_medium=Email&utm_term=How+Servo+Motors+Work&utm_campaign=NEWS0318&utm_content=NEWS0318)
+[How Servo Motors Work](https://www.jameco.com/Jameco/workshop/howitworks/how-servo-motors-work.html)
