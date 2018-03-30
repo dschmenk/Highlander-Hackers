@@ -12,6 +12,8 @@ NVIDIA Links
 
 [NVIDIA Deep Learning Guide](https://github.com/dusty-nv/jetson-inference)
 
+[NVIDIA ISAAC Robotics SDK](https://blogs.nvidia.com/blog/2018/03/27/isaac-robotics-sdk)
+
 Other Jetson Links
 ------------------
 [eLinux TX2 Information](https://elinux.org/Jetson_TX2)
