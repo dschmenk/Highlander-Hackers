@@ -33,3 +33,7 @@ Robotics Links
 [Open Kinect](https://openkinect.org/wiki/Getting_Started)
 
 [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/howitworks/how-servo-motors-work.html)
+
+Consequences of bad design and programming
+------------------------------------------
+[Toyota Engine Computer](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code)
