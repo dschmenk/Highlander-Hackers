@@ -26,6 +26,8 @@ Deep Learning Links
 
 [CAFFE](http://caffe.berkeleyvision.org/)
 
+[Deep Learning Processor List](https://github.com/basicmi/Deep-Learning-Processor-List/blob/master/README.md)
+
 Robotics Links
 --------------
 [Robot Operating System](http://www.ros.org/)
