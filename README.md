@@ -30,6 +30,9 @@ Deep Learning Links
 
 Robotics Links
 --------------
+
+[Hacking Maisto Rock Crawler](http://www.instructables.com/id/Arduino-Xbox-RC-Car-Hack-Maisto-Rock-Crawler/)
+
 [Robot Operating System](http://www.ros.org/)
 
 [Open Kinect](https://openkinect.org/wiki/Getting_Started)
