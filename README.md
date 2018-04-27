@@ -1,6 +1,9 @@
 # The Highlander Hackers
 -------------------------------------------------------------------
 
+## Our Robotic Challenge Project
+[Robotic Project](https://github.com/dschmenk/Highlander-Hackers/blob/master/doc/HH-Robot.md)
+
 ### Useful links to get you started:
 NVIDIA Links
 ------------
