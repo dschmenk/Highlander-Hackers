@@ -42,6 +42,8 @@ Robotics Links
 
 [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/howitworks/how-servo-motors-work.html)
 
+[Control DC Motor with Arduino](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+
 Consequences of bad design and programming
 ------------------------------------------
 [Toyota Engine Computer](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code)
