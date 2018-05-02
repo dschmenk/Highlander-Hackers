@@ -44,6 +44,10 @@ Robotics Links
 
 [Control DC Motor with Arduino](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 
+On-line Courses
+---------------
+[edX Computer Science](https://www.edx.org/course?subject=Computer%20Science)
+
 Consequences of bad design and programming
 ------------------------------------------
 [Toyota Engine Computer](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code)
