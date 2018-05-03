@@ -55,4 +55,5 @@ Consequences of bad design and programming
 Important Jetson GPIO info
 ------------------------------------------
 http://www.jetsonhacks.com/nvidia-jetson-tx2-j21-header-pinout/
+
 https://elinux.org/Jetson/Tutorials/GPIO
