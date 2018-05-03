@@ -51,3 +51,8 @@ On-line Courses
 Consequences of bad design and programming
 ------------------------------------------
 [Toyota Engine Computer](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-“spaghetti”-code)
+
+Important Jetson GPIO info
+------------------------------------------
+http://www.jetsonhacks.com/nvidia-jetson-tx2-j21-header-pinout/
+https://elinux.org/Jetson/Tutorials/GPIO
