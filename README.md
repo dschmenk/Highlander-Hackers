@@ -57,3 +57,5 @@ Important Jetson GPIO info
 http://www.jetsonhacks.com/nvidia-jetson-tx2-j21-header-pinout/
 
 https://elinux.org/Jetson/Tutorials/GPIO
+
+[Jetson orArduino?](https://github.com/dschmenk/Highlander-Hackers/wiki/Jetson-or-Arduino-for-motor-control)
