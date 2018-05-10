@@ -1,5 +1,8 @@
 # Highlander Hackers Robot Project
 
+Quick gstreamer test: `gst-launch nvcamerasrc ! autovideosink`
+
+
 - [Jetson TX2](https://developer.nvidia.com/embedded-computing)
 - [Maisto Rock Crawler Base](https://www.amazon.com/gp/product/B00Y53XH9O/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 - [SeeedStudio Motor Shield](http://wiki.seeedstudio.com/Motor_Shield_V2.0/)
