@@ -1,7 +1,10 @@
 # Highlander Hackers Robot Project
 
-Quick gstreamer test: `gst-launch nvcamerasrc ! autovideosink`
+Quick gstreamer test: 
 
+Jetson - `gst-launch-1.0 nvcamerasrc ! 'video/x-raw(memory:NVMM),width=720,height=480' ! nvjpegenc ! tcpserversink host=$JETSON_IP port=5000`
+
+Client - `gst-launch-1.0 tcpclientsrc host=$JETSON_IP port=5000 ! jpegdec ! autovideosink`
 
 - [Jetson TX2](https://developer.nvidia.com/embedded-computing)
 - [Maisto Rock Crawler Base](https://www.amazon.com/gp/product/B00Y53XH9O/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
