@@ -38,6 +38,8 @@ Robotics Links
 
 [Robot Operating System](http://www.ros.org/)
 
+[Robot Operating System Arduino library](http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup)
+
 [Robot Web Tools](http://robotwebtools.org)
 
 [Open Kinect](https://openkinect.org/wiki/Getting_Started)
