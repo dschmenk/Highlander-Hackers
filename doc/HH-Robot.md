@@ -10,6 +10,7 @@ Client - `gst-launch-1.0 tcpclientsrc host=$JETSON_IP port=5000 ! jpegdec ! auto
 - [Maisto Rock Crawler Base](https://www.amazon.com/gp/product/B00Y53XH9O/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 - [Arduino Uno R3](https://store.arduino.cc/usa/arduino-uno-rev3)
 - [L298N Motor Drive Controller](https://www.amazon.com/gp/product/B00XAGRQTO/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+- [L298N Tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjS0cy7mqHbAhVD34MKHa9lARsQFgh6MAA&url=https%3A%2F%2Fforum.arduino.cc%2Findex.php%3Faction%3Ddlattach%3Btopic%3D366727.0%3Battach%3D147606&usg=AOvVaw2-_9hcvFv5fNbAxK0jaaE6)
 - [Linear slide potentiometer](https://www.amazon.com/gp/product/B079C9411R/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 - [9.6V NiMH Battery Pack](https://www.amazon.com/gp/product/B001BBMZFU/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 
