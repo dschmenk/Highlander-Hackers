@@ -53,3 +53,4 @@
    * LAN Parties
    * Helping Seniors
    * Hour of Code
+   * Comp Sci Class Homework Help
