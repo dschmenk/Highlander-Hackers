@@ -1,6 +1,9 @@
 # The Highlander Hackers
 -------------------------------------------------------------------
 
+## First Robotics Tech Challenge
+[Project files](https://github.com/ftctechnh/ftc_app)
+
 ## Our Robotic Challenge Project
 [Robotic Project](https://github.com/dschmenk/Highlander-Hackers/blob/master/doc/HH-Robot.md)
 
