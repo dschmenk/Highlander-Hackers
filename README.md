@@ -1,10 +1,18 @@
 # The Highlander Hackers
 -------------------------------------------------------------------
 
-## First Robotics Tech Challenge
+## 2018/19 First Robotics Tech Challenge
+[Rover Ruckus Season Materials](https://www.firstinspires.org/resource-library/ftc/game-and-season-info)
+
+[Programming Resources](https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources)
+
+[Robot Building Resources](https://www.firstinspires.org/resource-library/ftc/robot-building-resources)
+
 [Project files](https://github.com/ftctechnh/ftc_app)
 
-## Our Robotic Challenge Project
+------------
+
+## Jetson Robotic Project
 [Robotic Project](https://github.com/dschmenk/Highlander-Hackers/blob/master/doc/HH-Robot.md)
 
 ### Useful links to get you started:
