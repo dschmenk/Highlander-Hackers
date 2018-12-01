@@ -12,6 +12,11 @@
 
 [Rev FTC prototypes (video)](https://www.youtube.com/watch?v=BkHIKwsIb8Y)
 
+### Java Tutorials
+[Getting Started](https://docs.oracle.com/javase/tutorial/getStarted/index.html)
+
+[Learning the Java Language](https://docs.oracle.com/javase/tutorial/java/index.html)
+
 ------------
 
 ## Jetson Robotic Project
