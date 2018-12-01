@@ -10,6 +10,8 @@
 
 [Project files](https://github.com/ftctechnh/ftc_app)
 
+[Rev FTC prototypes (video)](https://www.youtube.com/watch?v=BkHIKwsIb8Y)
+
 ------------
 
 ## Jetson Robotic Project
