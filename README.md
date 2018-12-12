@@ -4,6 +4,10 @@
 ## 2018/19 First Robotics Tech Challenge
 [Rover Ruckus Season Materials](https://www.firstinspires.org/resource-library/ftc/game-and-season-info)
 
+[Game Manual Part 1](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/2018-2019/game-manual-part-1.pdf)
+
+[Game Manual Part 2](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/2018-2019/game-manual-part-2.pdf)
+
 [Programming Resources](https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources)
 
 [Robot Building Resources](https://www.firstinspires.org/resource-library/ftc/robot-building-resources)
