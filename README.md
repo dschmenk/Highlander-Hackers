@@ -16,6 +16,8 @@
 
 [Rev FTC prototypes (video)](https://www.youtube.com/watch?v=BkHIKwsIb8Y)
 
+[TensorFlow Lite Object Detection](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
+
 ### Java Tutorials
 [Getting Started](https://docs.oracle.com/javase/tutorial/getStarted/index.html)
 
